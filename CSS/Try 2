@@ -1,0 +1,23 @@
+body {
+  font-family : Arial, helvetica, sans-serif;
+  margin : 0px;
+  padding : 0px;
+  background-color: rgb(255, 255, 128, .5);
+  color : black;
+}
+
+ #header {
+   width : 100%;
+   margin :auto;
+   background-color: rgb(255, 255, 128, .5);
+   color : black;
+   text-align: center ;
+  }
+  
+.box{
+   width : 90%;
+   margin :auto;
+   background-color :white;
+   color : black;
+   text-align: center ;
+}
